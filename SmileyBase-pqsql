@@ -1,0 +1,7 @@
+SmileyBaseWebsite/
+├── index.html
+└── nfts/
+    ├── nft001.png
+    ├── nft001.json
+    ├── nft002.png
+    └── nft002.json
